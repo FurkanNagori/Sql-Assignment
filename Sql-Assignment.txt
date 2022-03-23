@@ -1,5 +1,7 @@
-1) List all the columns of the Salespeople table.
+           All SQL commands.
 
+1) List all the columns of the Salespeople table.
+  
 select * from salespeople;
 +------+---------+-----------+------+
 | SNUM | SNAME   | CITY      | COMM |
